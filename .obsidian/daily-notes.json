@@ -1,0 +1,5 @@
+{
+  "format": "YYYY_MM_DD",
+  "folder": "sessions",
+  "template": "_config/templates/session.md"
+}

@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "_config/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "vimMode": true
+}
