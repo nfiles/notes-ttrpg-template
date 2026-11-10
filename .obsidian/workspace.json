@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dadc8402bd252815",
+    "id": "d9378e188a45c016",
     "type": "split",
     "children": [
       {
-        "id": "f50c7d09ee2d5f1b",
+        "id": "42f3814033159a82",
         "type": "tabs",
         "children": [
           {
-            "id": "17fd6612748deb19",
+            "id": "5343d0daba1292fc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "cf79cf939084e5cf",
+            "id": "5c369a61c7d69787",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "20260713201727",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,11 +63,14 @@
             }
           },
           {
-            "id": "370fb17fc61ea81f",
+            "id": "7a663b8ee2f8c42f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -79,48 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "616091eac2ae427b",
+    "id": "09adcd85dbaebd95",
     "type": "split",
     "children": [
       {
-        "id": "2afdb8495c91354a",
+        "id": "ba574c76b376f40d",
         "type": "tabs",
-        "dimension": 51.48936170212765,
         "children": [
           {
-            "id": "8b5f9fc5c88f7f5f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "5d90c5b3a72b449e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "campaign/07 Presto Change-O.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 07 Presto Change-O"
-            }
-          },
-          {
-            "id": "c7dc4a1672bc9a42",
+            "id": "afa8eebb8562aa32",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2026_09_28 SotSS Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,77 +108,52 @@
             }
           },
           {
-            "id": "9c811691d1219ff0",
+            "id": "dcfb95874128c481",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bca755a8541aa5e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cfa373c71ae781d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "campaign/07 Presto Change-O.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07 Presto Change-O"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "078cafd6945e1ca2",
-        "type": "tabs",
-        "dimension": 48.51063829787234,
-        "children": [
-          {
-            "id": "1f542327656a0b0d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "sessions/2026_09_28 SotSS Session 12.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6372987216867786,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Local graph"
-            }
-          },
-          {
-            "id": "8021ce2deb962bb0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,52 +169,5 @@
     }
   },
   "active": "e59deb2aa7fbf361",
-  "lastOpenFiles": [
-    "_config/templates/session.md",
-    "_config/templates/character.md",
-    "_config/templates/player.md",
-    "_config/templates/campaign.md",
-    "README.md",
-    "pages/The Infernal Rapture.md",
-    "_extras/assets/Pasted image 20261019220314.png",
-    "sessions/2026_10_19 SotSS Session 15.md",
-    "pages/Avernus.md",
-    "pages/imp.md",
-    "pages/Untitled 2.md",
-    "pages/Lucille.md",
-    "_extras/assets/Pasted image 20261019214228.png",
-    "_extras/assets/Pasted image 20261019213751.png",
-    "_extras/assets/Pasted image 20261019213729.png",
-    "pages/omnizu.md",
-    "_extras/assets/Pasted image 20261019213656.png",
-    "pages/Ichor's Aweigh!.md",
-    "pages/soul coin.md",
-    "_extras/assets/Pasted image 20261019211944.png",
-    "pages/Felix Meowndelson.md",
-    "pages/Firesnake Forge.md",
-    "_extras/assets/Pasted image 20261019210805.png",
-    "pages/The Shield of the Hidden Lord.md",
-    "_extras/assets/Pasted image 20261019205514.png",
-    "pages/shie.md",
-    "pages/giant salamanders.md",
-    "_extras/assets/Pasted image 20261019204416.png",
-    "sessions/2025_11_05 SotSS Session 1.md",
-    "_extras/assets/Pasted image 20261019202344.png",
-    "sessions/2026_10_14 SotSS Session 14.md",
-    "pages/Mounted Combat.md",
-    "pages/infernal war machines.md",
-    "pages/Lemure.md",
-    "sessions/2026_10_07 SotSS Session 13.md",
-    "pages/Larkenus Burrelius.md",
-    "_config",
-    "players",
-    "_extras/assets/Hammerhearths fliers.pdf",
-    "Excalidraw",
-    "_extras/assets/Orcs_Orcs_Orcs_block_puzzle.pdf",
-    "Fistandia's Mansion",
-    "empty_files.sh",
-    "_config/templates",
-    "journals/4913",
-    "journals/sedCI8NFL"
-  ]
+  "lastOpenFiles": []
 }

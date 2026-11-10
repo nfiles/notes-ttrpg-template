@@ -2,27 +2,7 @@
   "main": {
     "id": "9d34d5bec52f6834",
     "type": "split",
-    "children": [
-      {
-        "id": "561af53ea5398bd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa531a53f21746fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/2023_12_30 Reindeer GameZ Session 1.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "vertical"
   },
   "left": {
@@ -76,52 +56,6 @@
     ],
     "currentTab": 0
   },
-  "right": {
-    "id": "7cbbd7b3148e2632",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "bdc72d0f7753933d",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "sessions/2023_12_30 Reindeer GameZ Session 1.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "9f997d30691117ac",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "sessions/2023_12_30 Reindeer GameZ Session 1.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "3637ef7dd40c2d8e",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "sessions/2023_12_30 Reindeer GameZ Session 1.md"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -134,47 +68,5 @@
   },
   "active": "fa531a53f21746fb",
   "lastOpenFiles": [
-    "sessions/2024_01_02 Reindeer GameZ Session 2.md",
-    "empty_files.sh",
-    "/sessions/2024_01_02 Reindeer GameZ Session 2.md",
-    "/sessions/2022_09_28 OCaST Session 7.md",
-    "/sessions/2022_09_07 OCaST Session 6.md",
-    "/pages/Woad.md",
-    "/pages/Scaly Bitemouth.md",
-    "/pages/Bing Mistlehat.md",
-    "/empty_files.sh",
-    "campaign/Christmas One-Shots.md",
-    "pages/Ethan.md",
-    "sessions/2023_12_30 Reindeer GameZ Session 1.md",
-    "pages/Myrrh Potionneur.md",
-    "pages/Scaly Bitemouth.md",
-    "pages/Bing Mistlehat.md",
-    "sessions/2023_12_30.md",
-    "assets/Bing_profile_20231230233325.png",
-    "assets/Scaly_profile_20231230233946.png",
-    "assets/Heat_Miser_and minions_20231230164717.png",
-    "assets/Philip_profile_20231230164526.png",
-    "/assets/Philip_profile_20231230164526.png",
-    "/assets/Heat_Miser_and minions_20231230164717.png",
-    "/sessions/2023_12_30 Reindeer GameZ Session 1.md",
-    "/pages/Philip.md",
-    "/campaign/Christmas One-Shots.md",
-    "/assets/Scaly_profile_20231230233946.png",
-    "/assets/Bing_profile_20231230233325.png",
-    "pages/Philip.md",
-    "sessions/2022_12_28 Trouble In The Tundra.md",
-    "pages/Untitled.md",
-    "campaign/04 Mine, Not Yours.md",
-    "campaign/03 Orcs, Orcs, Orcs.md",
-    "campaign/02 Open Call at Skobeloff Theatre.md",
-    "campaign/01 Wolves of Welton.md",
-    "sessions/2022_06_13 OCaST Session 2.md",
-    "sessions/2023_11_26 JEDS Session 3.md",
-    "sessions",
-    "/sessions",
-    "assets/Pasted image 20231230164717.png",
-    "assets/Pasted image 20231230164526.png",
-    "templates",
-    "/templates"
   ]
 }
